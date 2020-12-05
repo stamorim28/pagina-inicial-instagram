@@ -6,10 +6,12 @@ Acabei fazendo algumas alterações no código original do projeto, principalmen
 
 O principal erro foi na responsividade que não estava funcionando no código passado na aula, corrigi usando o position com absolute e flex-wrap na quebra de linhas.
 
+Abaixo seguem as comparações do antes e depois da correção.
+
 ### ERRO DE RESPONSIVIDADE
 
-<img src="./gifs/erro.gif" class="insta-logo" alt="erro" width="640">
+<img src="./gifs/erro.gif" class="insta-logo" alt="erro" width="540">
 
 ### CORRIGIDO
 
-<img src="./gifs/corrigido.gif" class="insta-logo" alt="corrigido" width="640">
+<img src="./gifs/corrigido.gif" class="insta-logo" alt="corrigido" width="540">
