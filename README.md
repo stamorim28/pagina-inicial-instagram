@@ -10,8 +10,8 @@ Abaixo seguem as comparações do antes e depois da correção.
 
 ### ERRO DE RESPONSIVIDADE
 
-<img src="./gifs/erro.gif" class="insta-logo" alt="erro" width="540">
+<img src="./gifs/erro.gif" alt="erro" width="540">
 
 ### CORRIGIDO
 
-<img src="./gifs/corrigido.gif" class="insta-logo" alt="corrigido" width="540">
+<img src="./gifs/corrigido.gif" alt="corrigido" width="540">
