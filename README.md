@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram
 ## Projeto feito no bootcamp Decola Dev Avanade 2021 da Digital Innovation One.
-Link - https://exhruu58rs1sgr7npdb7tg-on.drv.tw/TESTES%20DE%20SITES/recriando-a-pag-inicial-instagram/
+Link - https://exhruu58rs1sgr7npdb7tg-on.drv.tw/TESTES%20DE%20SITES/recrian-pag-instagram/
 
 Acabei fazendo algumas alterações no código original do projeto, principalmente na parte de responsiva. Alguns itens não se adaptavam a tela de forma correta ou não se posicionavam direito então fui corrigindo e melhorando algumas coisas.
 
